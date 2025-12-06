@@ -1,7 +1,7 @@
 # Hospital Revenue Cycle & Clinical Analysis Pipeline 🏥
 
 
-**Tech Stack:** Snowflake Data Cloud, SQL, Tasks, Stored Procedures, Python (Data Profiling)  
+**Tech Stack:** Snowflake Data Cloud, SQL, Tasks, Stored Procedures
 **Domain:** Healthcare Revenue Cycle Management (RCM)
 
 ## 📋 Executive Summary
