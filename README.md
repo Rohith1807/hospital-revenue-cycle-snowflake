@@ -2,6 +2,7 @@
 
 
 **Tech Stack:** Snowflake Data Cloud, SQL, Tasks, Stored Procedures
+
 **Domain:** Healthcare Revenue Cycle Management (RCM)
 
 ## 📋 Executive Summary
