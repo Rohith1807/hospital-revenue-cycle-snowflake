@@ -58,6 +58,10 @@ I implemented a Tiered Governance Architecture to separate raw ingestion from bu
 | `READMISSION_FLAG`| `LAG(ADMISSION_DATE) OVER (PARTITION BY PATIENT)` | Identifies patients returning within 30 days (Quality Penalty Risk). |
 
 ---
+## Dashboard
+<img width="1543" height="807" alt="Screenshot 2025-12-06 134306" src="https://github.com/user-attachments/assets/a43cc19e-9ab2-4360-b32e-b65ea7d98cd8" />
+
+---
 
 ## 🛠️ How to Run This Project
 
